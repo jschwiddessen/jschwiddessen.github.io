@@ -2,6 +2,8 @@
 title: "Publications"
 permalink: /publications/
 layout: single
+author_profile: true
+description: "Research publications by Jan Schwiddessen in mathematical optimization, semidefinite programming, and machine learning."
 ---
 - Daniel Brosch, **Jan Schwiddessen**, Angelika Wiegele.  
   *The Augmented Mixing Method: Computing High-Accuracy Primal-Dual Solutions to Large-Scale SDPs via Column Updates.*  

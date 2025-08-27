@@ -3,6 +3,7 @@ title: "Talks"
 permalink: /talks/
 layout: single
 author_profile: true
+description: "Conference and seminar talks by Jan Schwiddessen on mathematical optimization, semidefinite programming, and related topics."
 ---
 
 ## Conferences and Workshops

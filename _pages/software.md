@@ -3,6 +3,7 @@ title: "Software"
 permalink: /software/
 layout: single
 author_profile: true
+description: "Open-source software projects by Jan Schwiddessen."
 ---
 
 ## AugmentedMixing.jl
