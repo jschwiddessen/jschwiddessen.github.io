@@ -3,7 +3,7 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
 /* Base font size */
@@ -44,3 +44,22 @@ h4 { font-size: 1.25rem; }
   border-radius: 50%;         /* make it circular */
 }
 
+/* GitHub */
+.author__urls i.fa-github {
+  color: #181717;
+}
+
+/* LinkedIn */
+.author__urls i.fa-linkedin {
+  color: #0077B5
+}
+
+/* Google Scholar */
+.author__urls i.ai-google-scholar {
+  color: #4285F4;
+}
+
+/* arXiv */
+.author__urls i.ai-arxiv {
+  color: #B31B1B;
+}

@@ -3,7 +3,7 @@ title: "About me"
 layout: single
 author_profile: true
 toc: false
-description: "PhD candidate in mathematical optimization"
+description: "Jan Schwiddessen – PhD candidate in mathematical optimization at the University of Klagenfurt. Research on semidefinite programming, efficient algorithms, and solver development in C and Julia."
 ---
 
 I am a PhD candidate in **mathematical optimization** at the University of Klagenfurt, Austria.  
