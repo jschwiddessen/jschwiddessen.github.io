@@ -1,0 +1,46 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Base font size */
+html { font-size: 20px; }
+
+.page__content { font-size: 1.15rem; }
+.page__content p,
+.page__content li { line-height: 1.65; }
+
+h1 { font-size: 2.3rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+
+.sidebar .nav__list a { font-size: 1.05rem; }
+
+/* Author sidebar balanced with content */
+.author__name { font-size: 1.5rem; }
+.author__bio  { font-size: 1.3rem; line-height: 1.5; }
+.author__urls { font-size: 1rem; line-height: 1.5; }
+.author__urls li,
+.author__urls li a,
+.author__urls .author__location,
+.author__urls .p-label { font-size: 1rem; }
+
+.sidebar { margin-right: 0; }
+
+@media (min-width: 64em) {
+  .layout--single .page__inner-wrap { padding-left: 3.5rem; }
+}
+
+
+.sidebar .author__avatar img {
+  width: 180px !important;
+  max-width: 180px !important;
+  height: 180px !important;   /* force square */
+  object-fit: cover;          /* crop instead of stretch */
+  border-radius: 50%;         /* make it circular */
+}
+
