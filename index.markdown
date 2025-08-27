@@ -1,11 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 title: "About me"
 layout: single
 author_profile: true
-toc: false # optional
+toc: false
+description: "PhD candidate in mathematical optimization"
 ---
 
 I am a PhD candidate in **mathematical optimization** at the University of Klagenfurt, Austria.  
