@@ -15,7 +15,7 @@ It is based on the following preprint:
 > Daniel Brosch, **Jan Schwiddessen**, Angelika Wiegele.  
 > *The Augmented Mixing Method: Computing High-Accuracy Primal-Dual Solutions to Large-Scale SDPs via Column Updates.*  
 > **Preprint**, (2025).  
-> — [arXiv](https://arxiv.org/abs/2507.20386)
+> [arXiv](https://arxiv.org/abs/2507.20386)
 
 ---
 
@@ -28,5 +28,5 @@ It is based on the following paper:
 > Veronica Piccialli, **Jan Schwiddessen**, Antonio M. Sudoso.  
 > *Optimization meets machine learning: an exact algorithm for semi-supervised support vector machines.*  
 > **Mathematical Programming**, Series B, (2024).  
-> — [SpringerLink](https://link.springer.com/article/10.1007/s10107-024-02175-z) · [DOI](https://doi.org/10.1007/s10107-024-02175-z) · [arXiv](https://arxiv.org/abs/2312.09789)
+> [SpringerLink](https://link.springer.com/article/10.1007/s10107-024-02175-z) · [DOI](https://doi.org/10.1007/s10107-024-02175-z) · [arXiv](https://arxiv.org/abs/2312.09789)
 
