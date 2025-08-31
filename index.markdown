@@ -1,21 +1,16 @@
 ---
-title: "About me"
+title: "About"
 layout: single
 author_profile: true
 toc: false
-description: "Jan Schwiddessen – PhD candidate in mathematical optimization at the University of Klagenfurt. Research on semidefinite programming, efficient algorithms, and solver development in C and Julia."
+description: "Jan Schwiddessen designs and implements efficient algorithms to build high-performance optimization software for large-scale problems."
 ---
 
-I am a PhD candidate in **mathematical optimization** at the University of Klagenfurt, Austria.  
+I design and implement **efficient algorithms** to build **high-performance optimization software** for **large-scale** problems.
 
-My research focuses on designing and implementing algorithms for challenging optimization problems, with emphasis on
-- **Semidefinite programming (SDP)** and its applications in combinatorial optimization, global optimization, and machine learning,  
-- the development of **efficient algorithms** for large-scale optimization problems,  
-- the **implementation of SDP-based solvers** for both theoretical and real-world applications.  
+I’m a PhD candidate in **mathematical** optimization at the University of Klagenfurt (Austria) and open to industry roles in **software engineering**, algorithms, and optimization.
 
-To ensure speed and scalability, I primarily develop solvers in the programming languages **C** and **Julia**.
+See [**Interests**](/interests/) and [**Software**](/software/) for focus areas and projects.
 
-You can find more details about my work in [**Publications**](/publications/) and [**Software**](/software/).
-
-Slides of my presentations are available on the [**Talks**](/talks/) page.
+Publications and slides are listed in [**Publications**](/publications/) and [**Talks**](/talks/).
 
