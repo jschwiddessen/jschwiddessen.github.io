@@ -10,7 +10,7 @@ description: "Awards, grants, and recognitions received by Jan Schwiddessen."
 
 - Master's Thesis Award (2021) -- German Operations Research Society (OR)
 - Best Master's Thesis (2020) -- TU Dortmund University, Department of Business and Economics
-- Best of the Year Award (2020) -- TU Dortmund University, Department of Mathematics
+- Best Graduate Student (2020) -- TU Dortmund University, Department of Mathematics
 - "Germany Scholarship" (Deutschlandstipendium, 2015/2016) — TU Dortmund University, Department of Mathematics
 - DMV Abiturpreis (2013) -- awarded by the German Mathematical Society (DMV) for outstanding performance in mathematics in high school
 
