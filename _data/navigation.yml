@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Achievements"
     url: /achievements/
+  - title: "Interests"
+    url: /interests/
   - title: "Publications"
     url: /publications/
   - title: "Software"
