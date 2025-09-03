@@ -1,22 +1,24 @@
 ---
-title: "Interests"
+title: "Beyond Algorithms"
 permalink: /interests/
 layout: single
 author_profile: true
-description: "Professional interests and personal hobbies of Jan Schwiddessen."
+toc: false
+description: "Beyond Algorithms: time in the Alps, on court, and at a board-game table."
 ---
 
-## Optimization & Algorithms
-- Mathematical optimization, especially semidefinite programming (SDP)
-- Large-scale optimization, randomized algorithms & low-rank methods
-- Design & implementation of efficient algorithms
-- Complexity theory; approximation schemes and algorithms
-- Approximation of hard optimization problems via semidefinite programming (SDP) relaxations
-- High-performance computing
-- Applications: combinatorial optimization, global optimization, machine learning
+Away from algorithms, I’m happiest in the mountains, on court, and at a board-game table.
 
-## Beyond algorithms
-- Chess & board games
-- Mountaineering
-- Tennis
+## Tennis
+It's my favorite day-to-day sport. Tennis is gloriously technical, and you never “finish” it. As in life, there’s always more to learn, and even the pros never stop improving.
+
+## Mountaineering
+I enjoy nature in the Alps and the simple comforts of hut life. Over time, I’ve learned to plan under uncertainty, assess risk and turn back when necessary, value community and simplicity, and move as a team with mutual support and shared responsibility.
+
+## Chess & Board Games
+I’m grateful my parents played lots of games with my brother and me growing up. Those evenings taught me patience, fair play, and the joy of slow thinking. As a teenager in my chess club, I played hundreds of games, and I’m still eager to learn and try new ones.
+
+## Fun Facts
+- Friends joke about my tea habits. I say: Green Darjeeling must steep for **exactly** two minutes. Anything longer and it’s a different drink.
+- I allegedly hold the University Sports Institute (USI) record for the most courses booked in a semester (still awaiting official confirmation).
 
