@@ -6,6 +6,8 @@ author_profile: true
 description: "Open-source software projects by Jan Schwiddessen."
 ---
 
+**This page lists my open-source projects with links to code, docs, and releases. Questions? Open an issue on GitHub or email me.**
+
 ## AugmentedMixing.jl
 
 [AugmentedMixing.jl](https://github.com/jschwiddessen/AugmentedMixing.jl) is a Julia package that implements the *Augmented Mixing Method*, an algorithm for computing high-accuracy primal–dual solutions to large-scale semidefinite programs (SDPs).

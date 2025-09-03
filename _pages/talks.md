@@ -6,6 +6,8 @@ author_profile: true
 description: "Conference and seminar talks by Jan Schwiddessen on mathematical optimization, semidefinite programming, and related topics."
 ---
 
+**Here’s a list of my PhD talks with slides (PDF). If you have any questions, feel free to email me.**
+
 ## Conferences & Workshops
 
 - *A low-rank high-precision solver for semidefinite programming*  
@@ -65,3 +67,4 @@ description: "Conference and seminar talks by Jan Schwiddessen on mathematical o
   
 - *Facility layout problems: solution approaches and practical difficulties*  
   Doctoral Seminar in Mathematics, University of Klagenfurt, Klagenfurt, Austria, 2021 · [Slides (PDF)](/assets/pdfs/klagenfurt2021.pdf)
+

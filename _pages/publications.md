@@ -6,6 +6,8 @@ author_profile: true
 description: "Research publications by Jan Schwiddessen in mathematical optimization, semidefinite programming, and machine learning."
 ---
 
+**Here you’ll find my publications, preprints, and theses, with links to publishers, DOIs, arXiv, and code where available.**
+
 ## Preprints
 
 - Daniel Brosch, **Jan Schwiddessen**, Angelika Wiegele.  

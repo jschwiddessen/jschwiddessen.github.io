@@ -6,7 +6,7 @@ toc: false
 description: "Algorithms at scale — approximation that makes hard problems practical; measured by runtime, memory, and accuracy."
 ---
 
-> ***Algorithms at scale &mdash; approximation that makes hard problems practical***
+> ***Algorithms at scale — approximation that makes hard problems practical***
 
 I develop **efficient algorithms** that power **high-performance optimization software** at **large scale**.
 
