@@ -1,16 +1,23 @@
 ---
-title: "About"
+title: "My Mission"
 layout: single
 author_profile: true
 toc: false
-description: "Jan Schwiddessen designs and implements efficient algorithms to build high-performance optimization software for large-scale problems."
+description: "Algorithms at scale — approximation that makes hard problems practical; measured by runtime, memory, and accuracy."
 ---
 
-I design and implement **efficient algorithms** to build **high-performance optimization software** for **large-scale** problems.
+> ***Algorithms at scale &mdash; approximation that makes hard problems practical***
 
-I’m a PhD candidate in **mathematical** optimization at the University of Klagenfurt (Austria) and open to industry roles in **software engineering**, algorithms, and optimization.
+I develop **efficient algorithms** that power **high-performance optimization software** at **large scale**.
 
-See [**Interests**](/interests/) and [**Software**](/software/) for focus areas and projects.
+**In practice, that means:**
+- Pushing the boundaries by making intractable problems practical.
+- Gaining measurable impact in terms of runtime, memory, and accuracy.
+- Applying approximation methods to gain control over complex, large-scale systems.
+- Leveraging computational geometry and mathematical programming.
+- Shipping efficient and robust open-source code.
 
-Publications and slides are listed in [**Publications**](/publications/) and [**Talks**](/talks/).
+I’m a PhD candidate in **mathematical** optimization at the University of Klagenfurt (Austria). Publications and slides are listed in [**Publications**](/publications/) and [**Talks**](/talks/).
+
+See [**Software**](/software/) for focus areas and projects.
 
