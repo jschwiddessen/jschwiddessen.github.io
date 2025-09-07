@@ -1,6 +1,6 @@
 ---
 title: "Beyond Algorithms"
-permalink: /interests/
+permalink: /beyond-algorithms/
 layout: single
 author_profile: true
 toc: false
