@@ -1,13 +1,13 @@
 title: "Jan Schwiddessen"
-description: "Homepage of Jan Schwiddessen, PhD candidate in mathematical optimization at the University of Klagenfurt. Achievements, interests, publications, software, and talks."
-email: "jan.schwiddessen [at] gmail.com"
+description: "Homepage of Jan Schwiddessen, PhD candidate in mathematical optimization. Skills, software, publications, talks, achievements."
+email: "jan.schwiddessen@gmail.com"
 
 author:
   name: "Jan Schwiddessen"
   avatar: "/assets/images/jan.jpg"
-  bio: "Impact through algorithms: approximation for large-scale systems."
+  bio: "Measurable performance through algorithms. PhD candidate in mathematical optimization."
   location: "Klagenfurt, Austria"
-  email: "jan.schwiddessen [at] gmail.com"
+  email: "jan.schwiddessen@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
