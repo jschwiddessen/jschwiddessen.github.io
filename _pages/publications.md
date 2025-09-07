@@ -7,7 +7,7 @@ description: "Research publications by Jan Schwiddessen in mathematical optimiza
 toc: true
 ---
 
-**Here you’ll find my publications, preprints, and theses, with links to publishers, DOIs, arXiv, and code where available.**
+Here you’ll find my publications, preprints, and theses, with links to publishers, DOIs, arXiv, and code where available.
 
 ## Preprints
 

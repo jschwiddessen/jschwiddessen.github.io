@@ -7,7 +7,7 @@ description: "Open-source software projects by Jan Schwiddessen."
 toc: true
 ---
 
-**This page lists my open-source projects with links to code, docs, and releases. Questions? Open an issue on GitHub or email me.**
+This page lists my open-source projects with links to code, docs, and releases. Questions? Open an issue on GitHub or email me.
 
 ## AugmentedMixing.jl
 
