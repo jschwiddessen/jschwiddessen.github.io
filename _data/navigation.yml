@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Interests"
+  - title: "Skills"
     url: /skills/
   - title: "Software"
     url: /software/
