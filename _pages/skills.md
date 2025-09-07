@@ -3,7 +3,7 @@ title: "Skills"
 permalink: /skills/
 layout: single
 author_profile: true
-toc: false
+toc: true
 description: "Software engineering and (mathematical) optimization skills."
 ---
 

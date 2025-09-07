@@ -3,7 +3,7 @@ title: "Beyond Algorithms"
 permalink: /beyond-algorithms/
 layout: single
 author_profile: true
-toc: false
+toc: true
 description: "Beyond Algorithms: time in the Alps, on court, and at a board-game table."
 ---
 

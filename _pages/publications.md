@@ -4,6 +4,7 @@ permalink: /publications/
 layout: single
 author_profile: true
 description: "Research publications by Jan Schwiddessen in mathematical optimization, semidefinite programming, and machine learning."
+toc: true
 ---
 
 **Here you’ll find my publications, preprints, and theses, with links to publishers, DOIs, arXiv, and code where available.**

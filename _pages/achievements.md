@@ -4,6 +4,7 @@ permalink: /achievements/
 layout: single
 author_profile: true
 description: "Awards, grants, and recognitions received by Jan Schwiddessen."
+toc: true
 ---
 
 ## Awards & Honors
