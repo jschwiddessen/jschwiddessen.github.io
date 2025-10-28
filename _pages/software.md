@@ -33,3 +33,26 @@ It is based on the following paper:
 > **Mathematical Programming**, Series B, (2024).  
 > [SpringerLink](https://link.springer.com/article/10.1007/s10107-024-02175-z) · [DOI](https://doi.org/10.1007/s10107-024-02175-z) · [arXiv](https://arxiv.org/abs/2312.09789)
 
+---
+
+## s3vm-mixing-c
+
+[s3vm-mixing-c](https://github.com/jschwiddessen/s3vm-mixing-c) is a parallel C implementation of a mixing-method variant solving the basic SDP relaxation of semi-supervised support vector machine (S3VM) models, including variable bound computations.
+
+It is research code that will be discussed in my upcoming PhD thesis.
+
+---
+
+## SRFLP-BB
+
+[SRFLP-BB](https://github.com/jschwiddessen/SRFLP-BB) is a C implementation of a parallel branch-and-bound (B&B) solver for the single-row facility layout problem (SRFLP) using semidefinite programming bounds.
+
+The solver is exact and always finds the optimal solution when terminating. Moreover, the branch-and-bound implementation is parallelized using POSIX Threads.
+
+Check out my master's thesis [PDF](/assets/pdfs/master_thesis.pdf) for details about the single-row facility layout problem and its semidefinite programming relaxations.
+
+---
+
+## mastermind-solver
+
+[mastermind-solver](https://github.com/jschwiddessen/mastermind-solver) implements an artificial intelligence (AI) engine for playing the board game _Mastermind_. It is fully parallelized using OpenMP and you can choose between two engine modes: optimizing the average case or the worst case.
